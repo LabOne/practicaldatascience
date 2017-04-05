@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD CLIST 1.0//EN" "http://www.cs.washington.edu/research/projects/xmltk/xmldata/data/courses/university.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2017-03-17T11:12:10Z</date>
+	<key>Application Version</key><string>12.3.1.23</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>University Folder</key><string>file:///Users/psev/University/SQL_example/</string>
+	<key>Library Persistent ID</key><string>B7006C9E9799282E</string>
+	<key>Tracks</key>
+	<dict>
+		<key>1</key>
+		<dict>
+			<key>MemberID</key><integer>1</integer>
+			<key>Title</key><string>Practical Data Science</string>
+			<key>Lecturer</key><string>Roman Nazarov</string>
+			<key>LectPhone</key><string>925-123-4567</string>
+			<key>Building</key><string>RobotX</string>
+			<key>Address</key><string>4500 Great America Pkwy, Santa Clara 95054</string>
+			<key>Room</key><string>300</string>
+			<key>Name</key><string>John Doe</string>
+			<key>email</key><string>jdoe@gmail.com</string>
+			<key>semester</key><string>Fall 2016</string>
+		</dict>
+		<key>2</key>
+		<dict>
+			<key>MemberID</key><integer>2</integer>
+			<key>Title</key><string>Practical Machine Learning</string>
+			<key>Lecturer</key><string>Roman Nazarov</string>
+			<key>LectPhone</key><string>925-123-4567</string>
+			<key>Building</key><string>RobotX</string>
+			<key>Address</key><string>4500 Great America Pkwy, Santa Clara 95054</string>
+			<key>Room</key><string>300</string>
+			<key>Name</key><string>John Doe</string>
+			<key>email</key><string>jdoe@gmail.com</string>
+			<key>semester</key><string>Fall 2016</string>
+		</dict>
+		<key>3</key>
+		<dict>
+			<key>MemberID</key><integer>3</integer>
+			<key>Title</key><string>Self-Driving Cars</string>
+			<key>Lecturer</key><string>Roman Nazarov</string>
+			<key>LectPhone</key><string>925-123-4567</string>
+			<key>Building</key><string>RobotX</string>
+			<key>Address</key><string>4500 Great America Pkwy, Santa Clara 95054</string>
+			<key>Room</key><string>300</string>
+			<key>Name</key><string>John Doe</string>
+			<key>email</key><string>jdoe@gmail.com</string>
+			<key>semester</key><string>Fall 2016</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
